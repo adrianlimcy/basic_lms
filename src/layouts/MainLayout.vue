@@ -61,6 +61,12 @@ const linksData = [
     caption: 'lessons',
     icon: 'school',
     link: '/lessons'
+  },
+  {
+    title: 'Quizzes',
+    caption: 'Test me',
+    icon: 'question_answer',
+    link: '/quizzes'
   }
 ]
 

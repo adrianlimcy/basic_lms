@@ -41,6 +41,9 @@
         <q-card-section class="q-pt-none">
           {{lorem}}
         </q-card-section>
+        <div class="q-pa-sm">
+          <q-btn to="/quizzes" color="primary" label="Quizzes" />
+        </div>
       </q-card>
     </div>
   </q-page>
